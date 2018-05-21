@@ -1,6 +1,11 @@
 # MiniForensicTool
 
-Mini Forensic Tool: The sender and receiver shared a symmetric key k1 as the root key. (E,D) denote a symmetric encryption and decryption algorithm, respectively. Using AES as the symmetric cipher with 256-bit key. H denotes a secure crypto- graphic hash function. Chose SHA-256. Used available functions from MIRACL library to realize (E, D, H). (l, t) are RID parameters.
+Mini Forensic Tool: The sender and receiver shared a symmetric key k1 as the root key. (E,D) denote a symmetric encryption and decryption algorithm, respectively. 
+Using AES as the symmetric cipher with 256-bit key. 
+H denotes a secure cryptographic hash function. 
+Chose SHA-256. 
+Used available functions from MIRACL library to realize (E, D, H). 
+(l, t) are RID parameters.
 
 
 
